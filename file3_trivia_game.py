@@ -13,13 +13,12 @@
 
 # 💻 Increase the score when the user guesses correctly
 
-# 💻 Add in a timer, the user has 5 seconds to answer each question
-
 # ------------------
 # 🧐 Extension
-#     1) Randomize the order of the questions
+#     
+#     1) Add in a timer, the user has 5 seconds to answer each question (look at file_ex_timer.py)
 #     2) allow the user to choose a easy, medium, hard mode 
-#          - this will change the random number range 
+#          - this will give the user more or less time to answer each question
 # ////////////////////////////////////////////
 
 questions_data = {
@@ -29,6 +28,7 @@ questions_data = {
 }
 
 score = 0
+
 for question, answer in questions_data.items():
 
     print(f"❓ {question}")
