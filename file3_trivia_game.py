@@ -1,11 +1,11 @@
 # /////////// INSTRUCTIONS /////////////////
-# 🎲 Let's make a simple number guessing game 
+# 🎲 Let's make a simple trivia game 
 
 # 🔁 We will use a for loop to allow the user to guess multiple times
 
 # 💻️⃣ Run the file multiple times to play test the game 
 
-# 💻️⃣ Add 3 more questions, play test the game with the new questions
+# 💻️⃣ Add 3 more questions & answers, play test the game with the new questions
 
 # 💻 Add an if statement to tell the user if they were correct
 
