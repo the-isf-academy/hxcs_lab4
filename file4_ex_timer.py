@@ -4,14 +4,13 @@
 # 💻️⃣ Run the file multiple times to test the timer
 #    - Currently, it does not display an accurate total_time 
 
-# 💻️⃣ In line 22, fix the total_time
+# 💻️⃣ In line 21, fix the total_time
 
 # \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 from time import time 
 
 start_time = time()
-
 
 user_name = input("Enter your name: ")
 
